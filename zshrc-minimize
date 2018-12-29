@@ -1,0 +1,5 @@
+ZSH_THEME="agnoster"
+plugins=(
+  git, zsh-autosuggestions, aws, docker, nvm
+)
+
