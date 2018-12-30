@@ -1,5 +1,8 @@
+. /usr/share/autojump/autojump.sh
+
 ZSH_THEME="agnoster"
+
 plugins=(
-  git, zsh-autosuggestions, aws, docker, nvm
+  zsh-autosuggestions, autojump, zsh-syntax-highlighting
 )
 
